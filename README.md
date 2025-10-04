@@ -1,16 +1,16 @@
 # Movies-Hub
-This is a basic movie browsing website created using only HTML, CSS, and JavaScript. It allows you to look through a list of movies, sort and filter them, and save your favorites to a watchlist.
+This is a basic movie browsing website created using only HTML, CSS, and JavaScript. It allows you to look through a list of movies, sort and filter them, and save your favorites to a watchlist.<br>
 
-Features
-Browse Movies: See a gallery of movies on the main page.
+<h2>Features</h2><br>
+Browse Movies: See a gallery of movies on the main page.<br>
 
-Filter by Genre: Show only Movies, Series, or Anime.
+Filter by Genre: Show only Movies, Series, or Anime.<br>
 
-Sort by Rating: Arrange movies from highest to lowest rating, or lowest to highest.
+Sort by Rating: Arrange movies from highest to lowest rating, or lowest to highest.<br>
 
-Watchlist: Add movies to a personal watchlist, which is saved in your browser.
+Watchlist: Add movies to a personal watchlist, which is saved in your browser.<br>
 
-Movie Details: Click on a movie image to see more details in a pop-up window.
+Movie Details: Click on a movie image to see more details in a pop-up window.<br>
 
 <h2>How to Run</h2><br>
 Download all the files (index.html, style.css, script.js, etc.).<br>
