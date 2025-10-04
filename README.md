@@ -12,22 +12,22 @@ Watchlist: Add movies to a personal watchlist, which is saved in your browser.
 
 Movie Details: Click on a movie image to see more details in a pop-up window.
 
-How to Run
-Download all the files (index.html, style.css, script.js, etc.).
+<h2>How to Run</h2><br>
+Download all the files (index.html, style.css, script.js, etc.).<br>
 
-Keep them in the same folder.
+Keep them in the same folder.<br>
 
-Open the index.html file in any web browser (like Chrome, Firefox, or Edge).
+Open the index.html file in any web browser (like Chrome, Firefox, or Edge).<br>
 
-That's it! The website will run locally on your computer.
+That's it! The website will run locally on your computer.<br>
 
-Files in this Project
-index.html: The main page that you see when you open the app.
+<h2>Files in this Project</h2><br>
+index.html: The main page that you see when you open the app.<br>
 
-style.css: All the styling to make the website look good (colors, layout, etc.).
+style.css: All the styling to make the website look good (colors, layout, etc.).<br>
 
-script.js: The JavaScript code that makes the website interactive (filtering, sorting, watchlist).
+script.js: The JavaScript code that makes the website interactive (filtering, sorting, watchlist).<br>
 
-login.html: A simple, non-functional login page template.
+login.html: A simple, non-functional login page template.<br>
 
 404.html: A page that would show if a user navigates to a broken link.
