@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Movie HUB</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h2>🎬 Movie App</h2>
+    <button id="homeBtn">Home</button>
+    <button><a href="login.html">Login</a></button>
+    <button id="watchlistBtn">Watchlist</button>
+  </header>
+
+  <div>
+    <select id="genreFilter">
+      <option value="all">All</option>
+      <option value="Movie">Movie</option>
+      <option value="Series">Series</option>
+      <option value="Anime">Anime</option>
+    </select>
+
+    <select id="sortBy">
+      <option value="default">Sort</option>
+      <option value="ratingHigh">High → Low</option>
+      <option value="ratingLow">Low → High</option>
+    </select>
+  </div>
+
+  <div id="movieContainer" class="movies"></div>
+  <div id="pagination" class="pagination"></div>
+
+  <div id="movieModal" class="modal">
+    <div class="modal-content"></div>
+  </div>
+
+  <footer><p>© 2025 Divyansh</p></footer>
+
+  <script src="script.js"></script>
+</body>
+</html>
+
